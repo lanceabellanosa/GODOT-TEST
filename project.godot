@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="GITHUB PROJECT"
+run/main_scene="uid://br3jcvi1ai8vk"
 config/features=PackedStringArray("4.6", "Forward Plus")
 config/icon="res://icon.svg"
 
